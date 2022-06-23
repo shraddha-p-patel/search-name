@@ -1,0 +1,22 @@
+/* .ant-btn.ant-btn-default.ant-btn-block.bgcolor {
+  background-color: #efefef;
+} */
+.ant-btn.ant-btn-text.ant-btn-block.bgcolor {
+  background-color: #efefef;
+}
+.subbtn {
+  height: 100px;
+  position: relative;
+}
+.subdiv {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+/* .ant-row.bgcolor {
+  background-color: #efefef;
+} */
